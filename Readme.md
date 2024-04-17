@@ -1,10 +1,10 @@
 # Run a SOLX Validator
 ## Setting up a node
-1. Git clone https://github.com/friendri311/CoinNetwork.git
+1. Git clone https://github.com/SOLXBLOCKCHAIN/node-example.git
 
 2. Copy source form node-example to root folder
 ```
-cp -r CoinNetwork/node-example/SOLX  /root/
+cp -r node-example/SOLX  /root/
 ```
 3. Create an Account
 
